@@ -1,7 +1,16 @@
 - ISABELLA -
   by Bone
 
+
 - CREDITS -
+
+  Items: ExtraNoise of "Quandary" (http://www.retributiongames.com/quandary/) and
+         TheLink of "Quandary Classic Roots" (http://www.minecraftforum.net/viewtopic.php?f=1021&t=232078)
+
+  Armor: Cpt. Corn of "Coterie Craft" (http://www.minecraftforum.net/viewtopic.php?f=1021&t=122389)
+
+
+- OTHER CREDITS -
 
   The following served as inspiration for various elements of this pack.
 
@@ -17,3 +26,7 @@
 
   - Many more! (Sorry, I'll add to this list as I think of them.)
 
+
+- NOTES -
+
+  Cobblestone and mobs appear in Coterie Craft and Quandary respectively and are my work.
