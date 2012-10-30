@@ -1,7 +1,6 @@
 source=/ctm/ctm-wood1.png
 method=random
-tiles=95
-faces=sides
+tiles=76
 connect=block
 
-#Jungle Wood Stairs (Sides)
+#Wood Stairs
