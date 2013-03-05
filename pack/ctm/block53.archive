@@ -1,0 +1,6 @@
+source=/ctm/ctm-wood1.png
+method=random
+tiles=76
+connect=block
+
+#Wood Stairs
