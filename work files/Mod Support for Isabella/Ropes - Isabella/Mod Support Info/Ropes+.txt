@@ -1,0 +1,33 @@
+Unofficial Isbella Support for Ropes +
+======================================
+Mod Version Supported: 1.1
+Texture Pack Version: 1.0
+Release Date: December 30, 2011
+Author: ScottKillen
+Updates: http://www.minecraftforum.net/topic/882510-
+
+Files
+=====
+
++--arrows
+|  +  confusionarrow.png
+|  +  dirtarrow.png
+|  +  eggarrow.png
+|  +  exarrow.png
+|  +  fiarrow.png
+|  +  grassarrow.png
+|  +  icearrow.png
+|  +  laserarrow.png
+|  +  mobarrow.png
+|  +  ropearrow.png
+|  +  slimearrow.png
+|  +  torcharrow.png
+|  +  warparrow.png
++--imgz
+   +  blockGrapplingHook.png
+   +  blockRope.png
+   +  itemGrapplingHook.png
+   +  itemGrapplingHookThrown.png
+   +  itemRope.png
+   +  rope.png
+   +  rope2.png

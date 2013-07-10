@@ -1,0 +1,36 @@
+Unofficial Isbella Support for Additional Pipes
+===============================================
+Mod Version Supported: BC3-0.1.8
+Texture Pack Version: 1.1
+Release Date: February 18, 2012
+Author: ScottKillen
+Updates: http://www.minecraftforum.net/topic/882510-
+
+Files
+=====
+
++--net
+   +--minecraft
+      +--src
+         +--buildcraft
+            +--krapht
+               +--gui
+                  +  crafting.png
+                  +  filter.png
+                  +  item_textures.png
+                  +  logisticspipe.png
+                  +  logisticspipebuildersupplier.png
+                  +  logisticspipechassidirection.png
+                  +  logisticspipechassinotrouted.png
+                  +  logisticspipechassirouted.png
+                  +  logisticspipecrafter.png
+                  +  logisticspipegui.png
+                  +  logisticspipenotrouted.png
+                  +  logisticspipeprovider.png
+                  +  logisticspiperequester.png
+                  +  logisticspiperouted.png
+                  +  logisticspipesatellite.png
+                  +  logisticspipesupplier.png
+                  +  pipechassi.png
+                  +  satellitegui.png
+                  +  suppliergui.png

@@ -1,0 +1,15 @@
+Unofficial Isbella Support for Advanced Machines
+===============================================+
+Mod Version Supported: 3.2 beta 2
+Texture Pack Version: 1.1
+Release Date: February 10, 2012
+Author: ScottKillen
+Updates: http://www.minecraftforum.net/topic/882510-
+
+Files
+=====
+
++  GUICenterfuge.png
++  GUIRotary.png
++  GUISingularity.png
+

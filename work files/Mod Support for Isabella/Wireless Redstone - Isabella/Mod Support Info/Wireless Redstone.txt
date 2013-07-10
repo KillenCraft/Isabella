@@ -1,0 +1,21 @@
+Unofficial Isbella Support for Wireless Redstone
+================================================
+Mod Version Supported: 1.5
+Texture Pack Version: 1.0
+Release Date: January 16, 2012
+Author: ScottKillen
+Updates: http://www.minecraftforum.net/topic/882510-
+
+Files
+=====
+
++--gui
+|  +  guiOff.png
+|  +  guiOn.png
++--WirelessSprites
+   +  rxOff.png
+   +  rxOn.png
+   +  topOff.png
+   +  topOn.png
+   +  txOff.png
+   +  txOn.png

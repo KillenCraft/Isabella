@@ -1,0 +1,21 @@
+Unofficial Isbella Support for Minefactory Reloaded
+===================================================
+Mod Version Supported: 1.4.1
+Texture Pack Version: 1.1
+Release Date: January 18, 2012
+Author: ScottKillen
+Updates: http://www.minecraftforum.net/topic/882510-
+
+Files
+=====
+
+---MineFactorySprites
+   +--animations
+   |  +  BlockBreaker.png
+   |  +  Conveyor.png
+   |  +  Fertilizer.png
+   |  +  Harvester.png
+   |  +  Rancher.png
+   |  +  Vet.png
+   +  items_0.png
+   +  terrain_0.png

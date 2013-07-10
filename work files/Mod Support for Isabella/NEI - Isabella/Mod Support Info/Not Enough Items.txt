@@ -1,0 +1,14 @@
+Unofficial Isbella Support for Not Enough Items
+===============================================
+Mod Version Supported: 1.0.5
+Texture Pack Version: 1.0
+Release Date: January 12, 2012
+Author: ScottKillen
+Updates: http://www.minecraftforum.net/topic/882510-
+
+Files
+=====
+
++--codechicken
+   +--nei
+      +  recipebg.png

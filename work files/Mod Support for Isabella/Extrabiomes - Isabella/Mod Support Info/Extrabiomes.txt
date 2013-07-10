@@ -1,0 +1,28 @@
+Unofficial Isbella Support for Extrabiomes
+===============================================+
+Mod Version Supported: 1.51
+Texture Pack Version: 1.0
+Release Date: February 24, 2012
+Author: ScottKillen
+Updates: http://www.minecraftforum.net/topic/882510-
+
+Files
+=====
+
++--extrabiomes
+   +  autumnsapling.png
+   +  browngrass.png
+   +  brongrassshort.png
+   +  cattail.png
+   +  crackedsand.png
+   +  firsapling.png
+   +  hydrangea.png
+   +  leavesbrown.png
+   +  leavesorange.png
+   +  leavesred.png
+   +  leavesyellow.png
+   +  orangeflower.png
+   +  purpleflower.png
+   +  redrock.png
+   +  shortgrass.png
+   +  whiteflower.png

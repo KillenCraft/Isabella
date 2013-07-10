@@ -1,0 +1,70 @@
+Unofficial Isbella Support for Fossil / Archeology
+===================================================
+Mod Version Supported: 5.6_P1
+Texture Pack Version: 1.2
+Release Date: January 23, 2012
+Author: ScottKillen
+Updates: http://www.minecraftforum.net/topic/882510-
+
+Files
+=====
+
++--armor
+|  \  Ancient_1.png
++--skull
+   +  dinoegg.png
+   +  DNA4.png
+   +  eggTexture1.png
+   +  eggTexture2.png
+   +  eggTexture3.png
+   +  eggTexture4.png
+   +  eggTexture5.png
+   +  eggTexture6.png
+   +  eggTexture7.png
+   +  eggTexture8.png
+   +  Failuresaurus.png
+   +  Fos_items.png
+   +  Fos_terrian.png
+   +  Mosasaurus.png
+   +  Nautilus.png
+   +  needle.png
+   +  PigBoss.png
+   +  PigBossCharged_r.png
+   +  PigBoss_Charging.png
+   +  PigBoss_r.png
+   +  Plesiosaur_adult.png
+   +  pr1.png
+   +  Pterosaur.png
+   +  Raptor_Adult.png
+   +  Raptor_Baby.png
+   +  raptor_blue_adult.png
+   +  raptor_blue_Baby.png
+   +  raptor_green_adult.png
+   +  raptor_green_Baby.png
+   +  Raptor_Tamed.png
+   +  RenderPassMosasaurus.png
+   +  SaberCat_Adult.png
+   +  SaberCat_Young.png
+   +  Stegosaurus_Adult.png
+   +  Stegosaurus_Baby.png
+   +  TextureAncientHalmet.png
+   +  TRex.png
+   +  TRexWeak.png
+   +  TRex_Adult.png
+   +  Triceratops_Adult_1.png
+   +  Triceratops_Adult_2.png
+   +  Triceratops_Adult_3.png
+   +  Triceratops_Baby_1.png
+   +  Triceratops_Baby_2.png
+   +  Triceratops_Baby_3.png
+   +  Triceratops_Tamed.png
+   +  Triceratops_Teen_1.png
+   +  Triceratops_Teen_2.png
+   +  Triceratops_Teen_3.png
+   +  Tri_Hurt.png
+   +  UIAnalyzer.png
+   +  UICultivate.png
+   +  UIFeeder.png
+   +  UIPazzle.png
+   +  UtaAttack.png
+   \  UtaCalm.png

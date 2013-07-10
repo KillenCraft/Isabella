@@ -1,0 +1,73 @@
+- ISABELLA (direwolf20 remix) -
+  by ScottKillen
+
+THIS IS NOT THE OFFICIAL RELEASE OF THE ISABELLA TEXTUREPACK!!!
+THE ORIGINAL CAN BE FOUND AT: http://www.minecraftforum.net/topic/242175-
+
+This remix contains bonemouse' original Isabella 1.1v6, PLUS:
+  - Customized terrain textures (attributed by bonemouse in the original and below)
+    - Faceless unlit pumpkins
+    - Slimy sticky piston
+    - Railcraft compatible rails
+    - Framed diamond blocks
+    - Framed lapis blocks
+    - Rounded tree cross section
+    - Staggered planks
+  - Alternate furnace GUI
+  - Unofficial Mod Textures
+    - NEI 1.0
+    - Buildcraft 1.2
+    - Equivalent Exchange 2 1.2
+    - Forestry 1.5
+    - Industrial Craft 2 1.3
+    - Logistics Pipes 1.1
+    - RedPower 2 1.8
+    - Wireless Redstone 1.0
+    - Additional Pipes 1.1
+    - Ender Chest 1.0
+    - Laser Mod 1.0
+    - Sneaky Pipes 1.0
+    - Additional Buildcraft Objects 1.0
+    - Advanced Machines 1.1
+  
+THIS IS NOT THE OFFICIAL RELEASE OF THE ISABELLA TEXTUREPACK!!!
+THE ORIGINAL CAN BE FOUND AT: http://www.minecraftforum.net/topic/242175-
+
+ORIGINAL:
+
+- ISABELLA
+  by Bone
+
+- CUSTOMIZABLE VERSION -
+
+  Minecraft Customizer: http://www.minecraftcustomizer.net/view.php?pack=Isabella
+
+- CREDITS -
+
+  - Screenshots courtesy of LordGideon
+
+  - Some textures contributed by mrisump, Solidfire, TaylorHosk, ScottKillen, Conker_27
+
+  - Main Menu Panoramic Background by MrMom
+
+
+- INSPIRATION -
+
+  The following served as inspiration for various elements of this pack.
+
+  - Quandary: http://www.retributiongames.com/quandary/
+
+  - Coterie Craft: http://www.minecraftforum.net/viewtopic.php?f=1021&t=122389
+
+  - Jolicraft: http://www.minecraftforum.net/viewtopic.php?f=1021&t=176793
+
+  - Eldpack: http://www.eldpack.com/
+
+  - Dokucraft: http://www.minecraftforum.net/viewtopic.php?f=1021&t=224969\
+
+  - Many more!
+
+- THANKS -
+
+  Special thanks to Mojang and everyone who's taken the time to provide feedback and encouragement.
+  Very special thanks to Sarah for putting up with me during the long hours I spent working on this pack.

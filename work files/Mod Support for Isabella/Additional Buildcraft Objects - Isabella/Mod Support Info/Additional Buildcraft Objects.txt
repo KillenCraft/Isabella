@@ -1,0 +1,17 @@
+Unofficial Isbella Support for Additional Buildcraft Objects
+============================================================
+Mod Version Supported: 0.9
+Texture Pack Version: 1.0
+Release Date: February 17, 2012
+Author: ScottKillen
+Updates: http://www.minecraftforum.net/topic/882510-
+
+Files
+=====
+
++--net
+   +--minecraft
+      +--src
+         +--AdditionalBuildcraftObjects
+            +--gui
+               +  block_textures.png

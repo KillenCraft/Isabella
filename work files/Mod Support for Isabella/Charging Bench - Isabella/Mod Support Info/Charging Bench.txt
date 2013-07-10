@@ -1,0 +1,15 @@
+Unofficial Isbella Support for Charging Bench
+=============================================
+Mod Version Supported: 1.71-1
+Texture Pack Version: 1.1
+Release Date: March 5, 2012
+Author: ScottKillen
+Updates: http://www.minecraftforum.net/topic/882510-
+
+Files
+=====
+
++--ic2
+   +--sprites
+      +  ChargingBench.png
+      \  GUIChargingBench.png

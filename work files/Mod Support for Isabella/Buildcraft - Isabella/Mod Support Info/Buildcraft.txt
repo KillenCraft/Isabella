@@ -1,0 +1,56 @@
+Unofficial Isbella Support for Buildcraft
+=========================================
+Mod Version Supported: 3.1.3
+Texture Pack Version: 1.2
+Release Date: February 6, 2012
+Author: ScottKillen
+Updates: http://www.minecraftforum.net/topic/882510-
+
+Files
+=====
+
++--net
+   +--minecraft
+      +--src
+         +--buildcraft
+            +--builders
+            |  +--gui
+            |     +  builder.png
+            |     +  builder_blueprint.png
+            |     +  filler.png
+            |     +  library_r.png
+            |     +  library_rw.png
+            |     +  template_gui.png
+            +--core
+            |  +--gui
+            |     +  block_textures.png
+            |     +  item_textures.png
+            |     +  laser_1.png
+            |     +  laser_2.png
+            |     +  laser_3.png
+            |     +  laser_4.png
+            |     +  robot.png
+            |     +  stripes.png
+            +--energy
+            |  +--gui
+            |     +  base_iron.png
+            |     +  base_stone.png
+            |     +  base_wood.png
+            |     +  chamber.png
+            |     +  combustion_engine_gui.png
+            |     +  steam_engine_gui.png
+            |     +  trunk_blue.png
+            |     +  trunk_green.png
+            |     +  trunk_yellow.png
+            +--factory
+            |  +--gui
+            |     +  assembly_table.png
+            |     +  refinery.png
+            |     +  refinery_filter.png
+            +--transport
+               +--gui
+                  +  filter.png
+                  +  gate_interface_1.png
+                  +  gate_interface_2.png
+                  +  gate_interface_3.png
+                  +  gate_interface_4.png

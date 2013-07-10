@@ -1,0 +1,44 @@
+Unofficial Isbella Support for RedPower 2
+=========================================
+Mod Version Supported: Prerelease 4d
+Texture Pack Version: 1.8
+Release Date: February 6, 2012
+Author: ScottKillen
+Updates: http://www.minecraftforum.net/topic/882510-
+
+Thanks
+======
+Thanks  to Sablesong (http://www.minecraftforum.net/topic/424206-) for the inspiration for the marble and marble brick textures.
+
+Files
+=====
+
++--eloraam
+   +--array
+   |  +  array1.png
+   +--base
+   |  +  advbench.png
+   |  +  afurnacegui.png
+   |  +  base1.png
+   |  +  items1.png
+   +--lighting
+   |  +  lighting1.png
+   +--logic
+   |  +  countergui.png
+   |  +  logic1.png
+   |  +  timersgui.png
+   +--machine
+   |  +  batbox.png
+   |  +  btfurnace.png
+   |  +  buffer.png
+   |  +  filter.png
+   |  +  filter9.png
+   |  +  itemdet.png
+   |  +  machine1.png
+   |  +  retriever.png
+   |  +  sortmachine.png
+   +--wiring
+   |  +  redpower1.png
+   +--world
+      +  world1.png
+      +  worlditems1.png

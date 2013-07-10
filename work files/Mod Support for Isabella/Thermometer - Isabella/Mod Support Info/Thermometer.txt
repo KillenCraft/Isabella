@@ -1,0 +1,14 @@
+Unofficial Isbella Support for Thermometer
+==========================================
+Mod Version Supported: 1.1.8b
+Texture Pack Version: 1.0
+Release Date: January 21, 2012
+Author: ScottKillen
+Updates: http://www.minecraftforum.net/topic/882510-
+
+Files
+=====
+
++--ic2
+   +--sprites
+      \  item_thermometer.png

@@ -1,0 +1,5 @@
+[*]direwolf20 remix
+[list]
+Updated: [font="Courier New"]February 17, 2012 (v1.0)[/font]
+Description: This retextures all of the mods used by direwolf20 in his [url="http://www.minecraftforum.net/topic/876538-"]Let's Play series[/url], with the exception of Portal Gun.  See notes.txt for details.
+[/list]

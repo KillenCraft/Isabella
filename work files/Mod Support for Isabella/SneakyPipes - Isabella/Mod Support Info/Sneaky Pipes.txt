@@ -1,0 +1,23 @@
+Unofficial Isbella Support for Sneaky Pipes
+============================================================
+Mod Version Supported: 0.0.2
+Texture Pack Version: 1.0
+Release Date: February 17, 2012
+Author: ScottKillen
+Updates: http://www.minecraftforum.net/topic/882510-
+
+Files
+=====
+
++--net
+   +--minecraft
+      +--src
+         +--buildcraft
+            +--sneakypipes
+               +--gui
+                  +  sneakygui.png
+               +--textures
+                  +  glasspipe.png
+                  +  sandpipe.png
+                  +  sneakypipe.png
+                  +  voidpipe.png

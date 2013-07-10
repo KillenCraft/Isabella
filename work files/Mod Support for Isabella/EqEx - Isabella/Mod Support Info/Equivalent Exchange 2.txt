@@ -1,0 +1,39 @@
+Unofficial Isbella Support for Equivalent Exchange 2
+==================================================++
+Mod Version Supported: 1.32
+Texture Pack Version: 1.2
+Release Date: February 15, 2012
+Author: ScottKillen
+Updates: http://www.minecraftforum.net/topic/882510-
+
+Files
+=====
+
++--armor
+|  +  darkmatter_1.png
+|  +  darkmatter_2.png
++--eqex
+   +  alchchest.png
+   +  condenser.png
+   +  eqexsheet.png
+   +  eqexterra.png
+   +--gui
+   |  +  alchest.png
+   |  +  array.png
+   |  +  array2.png
+   |  +  array3.png
+   |  +  collector.png
+   |  +  collector2.png
+   |  +  collector3.png
+   |  +  condenser.png
+   |  +  dmfurnace.png
+   |  +  mercurial.png
+   |  +  pedestal.png
+   |  +  rmfurnace.png
+   |  +  transmute.png
+   +  fireball.png
+   +  kinesis.png
+   +  lavaessence.png
+   +  philessence.png
+   +  wateressence.png
+   +  windessence.png

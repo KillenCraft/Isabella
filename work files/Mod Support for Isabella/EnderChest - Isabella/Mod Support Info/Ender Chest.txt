@@ -1,0 +1,16 @@
+Unofficial Isbella Support for Ender Chest
+==========================================
+Mod Version Supported: 1.0.0
+Texture Pack Version: 1.0
+Release Date: January 12, 2012
+Author: ScottKillen
+Updates: http://www.minecraftforum.net/topic/882510-
+
+Files
+=====
+
++--codechicken
+   +--enderchest
+      +  buttons.png
+      +  EnderChest.png
+      +  hedronmap.png

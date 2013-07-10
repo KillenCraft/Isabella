@@ -1,0 +1,15 @@
+Unofficial Isbella Support for Laser Mod
+========================================
+Mod Version Supported: 1.3
+Texture Pack Version: 1.0
+Release Date: February 18, 2012
+Author: ScottKillen
+Updates: http://www.minecraftforum.net/topic/882510-
+
+Files
+=====
+
++--PigbearLaser
+   +  laser_device.png
+   +  lens_bench.png
+   +  sprites.png

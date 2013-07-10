@@ -1,0 +1,62 @@
+Unofficial Isbella Support for Industrialcraft 2
+================================================
+Mod Version Supported: 1.71
+Texture Pack Version: 1.4
+Release Date: March 5, 2012
+Author: ScottKillen
+Updates: http://www.minecraftforum.net/topic/882510-
+
+Files
+=====
+
++--armor
+|  \--ic2
+|     +  alloy_1.png
+|     +  batpack_2.png
+|     +  bronze_1.png
+|     +  bronze_2.png
+|     +  lappack_1.png
+|     +  nano_1.png
+|     +  nano_2.png
+|     +  quantum_1.png
+|     +  quantum_2.png
++--ic2
+   \--sprites
+      +  bctriggers.png
+      +  block_0.png
+      +  block_cable.png
+      +  block_electric.png
+      +  block_generator.png
+      +  block_machine.png
+      +  block_machine2.png
+      +  block_personal.png
+      +  crops_0.png
+      +  GUI6by3.png
+      +  GUI6by4.png
+      +  GUI6by5.png
+      +  GUI6by6.png
+      +  GUI6by7.png
+      +  GUI6by8.png
+      +  GUI6by9.png
+      +  GUICanner.png
+      +  GUICompressor.png
+      +  GUICropnalyzer.png
+      +  GUIElecFurnace.png
+      +  GUIElectricBlock.png
+      +  GUIElectrolyzer.png
+      +  GUIExtractor.png
+      +  GUIGenerator.png
+      +  GUIGeoGenerator.png
+      +  GUIInduction.png
+      +  GUIMacerator.png
+      +  GUIMatter.png
+      +  GUIMiner.png
+      +  GUIPersonalChest.png
+      +  GUIPump.png
+      +  GUIRecycler.png
+      +  GUISolarGenerator.png
+      +  GUITradeOMatClosed.png
+      +  GUITradeOMatOpen.png
+      +  GUIWaterGenerator.png
+      +  GUIWindGenerator.png
+      +  item_0.png

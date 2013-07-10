@@ -1,0 +1,22 @@
+Unofficial Isbella Support for ComputerCraft
+===============================================+
+Mod Version Supported: 1.3
+Texture Pack Version: 1.1
+Release Date: March 10, 2012
+Author: ScottKillen
+Updates: http://www.minecraftforum.net/topic/882510-
+
+Files
+=====
+
++--gui
+|  +  corners.png
+|  +  diskdrive.png
+|  +  terminal.png
+|  +  turtle.png
++--terrain
+   +--computer
+   |  +  blink.png
+   +  ccterrain.png
+   +  ccturtle.png
+

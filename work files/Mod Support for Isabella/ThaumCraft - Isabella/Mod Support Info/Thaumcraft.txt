@@ -1,0 +1,39 @@
+Unofficial Isbella Support for Thaumcraft
+========================================
+Mod Version Supported: 1.2.6
+Texture Pack Version: 1.5
+Release Date: March 3, 2012
+Author: ScottKillen
+Updates: http://www.minecraftforum.net/topic/882510-
+
+Acknowledgments
+===============
+- Thank you to WhatGravitas for the Woodsman's Axe texture.
+
+Files
+=====
+
++--thaumcraft
+   +  4x9InvBoxes.png
+   +  bootsseven.png
+   +  bootsstomp.png
+   +  bootsstriding.png
+   +  borefocus.png
+   +  boregui.png
+   +  grub0.png
+   +  grub1.png
+   +  grub2.png
+   +  grub3.png
+   +  InvPlayerAndBlank.png
+   +  main.png
+   +  particles.png
+   +  tcgui.png
+   +  tcpuddleanim.png
+   +  tcrucibleanim.png
+   +  tcubeanim.png
+   +  tdgui.png
+   +  thaumium_1.png
+   +  thaumium_2.png
+   +  tree.png
+   +  treeangry.png
+   +  tslime.png
